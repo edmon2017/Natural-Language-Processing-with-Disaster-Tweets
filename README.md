@@ -20,6 +20,9 @@ After the EDA, I found this main observations:
 
 * Data was cleaned.
 
+![image](https://github.com/user-attachments/assets/e458fae9-d974-4422-a6c0-34e230793ecd)
+
+
 ## Model Architecture
 For this exercise I'm going to use a recurent neural network (RNN). This because Tweets are short sequences of tokens with word-order patterns, and the RNN can learn these sequential dependencies. 
 
@@ -33,6 +36,9 @@ I'm going to use:
 
 * Dense→Sigmoid (binary classification).
 
+![image](https://github.com/user-attachments/assets/5e8b83ff-c500-41f0-beda-f2451986b695)
+
+![image](https://github.com/user-attachments/assets/8ac3d0cf-0245-4477-a1ed-d968679e5813)
 
 ## Conclusions
 
